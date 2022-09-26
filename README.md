@@ -26,8 +26,8 @@
 - 📫 How to reach me **amartins.dev@gmail.com**
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandremartinstech&layout=compact&theme=ocean_dark&locale=pt-BR"/> 
-    <img src="https://github-readme-stats.vercel.app/api?username=alexandremartinstech&show_icons=true&theme=ocean_dark&locale=pt-BR" width="425px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandremartinstech&layout=compact&theme=ocean_dark"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=alexandremartinstech&show_icons=true&theme=ocean_dark" width="425px" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
