@@ -7,6 +7,7 @@
 
 - 🌱 I’m currently learning
 <p align="center">
+    <img alt="OutSystems" src="https://img.shields.io/badge/-OutSystems-red?style=flat&logoColor=white" />
     <img alt="TailwindCss" src="https://img.shields.io/badge/-Tailwind-blue?logo=TailwindCss&style=flat&logoColor=white" />
     <img alt="GoLang" src="https://img.shields.io/badge/-GoLang-white?style=flat&logo=Go&logoColor=blue" />
     <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-61DAFB?style=flat&logo=Flutter&logoColor=white" />
