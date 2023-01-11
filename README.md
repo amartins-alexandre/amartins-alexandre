@@ -24,7 +24,7 @@
     <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-yellow?logo=Javascript&style=flat&logoColor=white" />
 </p>
 
-- 📫 How to reach me **amartins.dev@gmail.com**
+- 📫 How to reach me **amartins.alexandre@outlook.pt**
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandremartinstech&layout=compact&theme=ocean_dark"/> 
