@@ -2,7 +2,7 @@
 <h3 align="center">Software engineer who loves studying architecture and best practices. Focused On Helping People</h3>
 
 <p align="left">    
-    <img src="https://komarev.com/ghpvc/?username=alexandremartinstech&label=Profile%20views&color=0e75b6&style=flat" alt="alexandremartinstech" /> 
+    <img src="https://komarev.com/ghpvc/?username=amartins-alexandre&label=Profile%20views&color=0e75b6&style=flat" alt="amartins-alexandre" /> 
 </p>
 
 [comment]: <> (- 🌱 I’m currently learning)
@@ -27,8 +27,8 @@
 - 📫 How to reach me **amartins.alexandre@outlook.pt**
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandremartinstech&layout=compact&theme=ocean_dark"/> 
-    <img src="https://github-readme-stats.vercel.app/api?username=alexandremartinstech&show_icons=true&theme=ocean_dark" width="425px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartins-alexandre&layout=compact&theme=ocean_dark"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=amartins-alexandre&show_icons=true&theme=ocean_dark" width="425px" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
