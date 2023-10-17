@@ -32,5 +32,5 @@
 <h3 align="left">Connect with me:</h3>
 <div> 
   <a href = "amartins.alexandre@outlook.pt"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=white&color=%23074577" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alanis-emanuela-393644221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/alexandre-araujo-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
